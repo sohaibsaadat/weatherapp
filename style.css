@@ -23,7 +23,7 @@ body {
 @media (max-width:515px) {
     .main {
         width: 350px;
-        height: 80%;
+        height: auto;
     }
 
     .header {
